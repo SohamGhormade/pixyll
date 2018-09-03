@@ -1,12 +1,13 @@
 # Site settings
 title:       Soham Ghormade
-email:       soham.ghormade@example.com
+email:       soham.ghormade@gmail.com
 author:      Soham Ghormade
 description: "My personal website"
 baseurl:     ""
 date_format: "%b %-d, %Y"
 header_pages:
- - about.md
+ - portfolio.html
+ - resume.md
  - contact.html
 
 # Google services
