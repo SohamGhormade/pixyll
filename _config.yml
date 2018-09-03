@@ -1,10 +1,9 @@
 # Site settings
 title:       Soham Ghormade
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     "/sohamghormade"
-url:         "https://sohamghormade.github.io"
+email:       soham.ghormade@example.com
+author:      Soham Ghormade
+description: "My personal website"
+baseurl:     ""
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
@@ -51,7 +50,7 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: SohamGhormade
 reddit_username:
 bitbucket_username:
 stackoverflow_id:
@@ -59,7 +58,7 @@ twitter_username:
 skype_username:
 steam_nickname:
 google_plus_id:
-linkedin_username:
+linkedin_username: soham-ghormade
 angellist_username:
 medium_id:
 bitcoin_url:
